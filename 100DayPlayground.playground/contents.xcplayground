@@ -3,5 +3,6 @@
     <pages>
         <page name='CelsiusToFehrenheit'/>
         <page name='UniqueStringArray'/>
+        <page name='FizzBuzz'/>
     </pages>
 </playground>
