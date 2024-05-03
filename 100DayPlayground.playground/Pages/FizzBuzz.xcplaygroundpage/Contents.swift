@@ -2,6 +2,7 @@
 
 import Foundation
 
+var multiplesDictionary = ["multipleOf3": 0, "multipleOf5": 0, "multipleOfBoth": 0];
 for i in 1...100 {
     var multipleOf3 = i.isMultiple(of: 3) ? true : false
     var multipleOf5 = i.isMultiple(of: 5) ? true : false
